@@ -1,0 +1,32 @@
+#### Reference:
+- Source: [How to Take Smart Notes | Zettelkasten Method in Roam Research](https://www.youtube.com/watch?v=ljyo_WAJevQ) (use Ctrl+K)
+-   Author: [[@Shu Omi]]
+-   Tags: [[notes]] [[Zettelkasten]] [[notetaking]]
+-   Summary: How to perform Zettelkasten in 
+### Notes:
+-   Highlights
+    -   Take Literature Notes
+        -   Information you don't want to forget or think you'll use later in own writing
+        -   Be brief and extremely selective
+        -   Make it in your own words, no quoting
+        -   Alternatively, highlight and import from app. (e.g Zotero)
+        -   alt+drag in Roam with two windows
+        -   Underneath brief sentences, add a "source:" for original text where idea comes from
+    -   Take Reference Notes
+        -   Add a header to top of roam page
+            -   Source:
+            -   Author:
+            -   Tags:
+            -   Summary:
+    -   Make Permanent Notes
+        -   Create page for key references notes. (e.g., a phrase from literature notes, "Journaling is the easiest way of getting feedback")
+        -   Add header to top of roam page
+            -   Reference:
+                -   Source: \[where the idea came from\]
+                    -   Keywords: \[permanent notes\] #'keywords
+                        -   In what circumstances would I want to find this note?
+                        -   How and when will I use this idea?
+                        -   e.g. "how to journal" "how to get feedback" "feedback"
+                -   Relevant Notes: \[\]
+            -   Notes:
+                -   Write in proper sentences.

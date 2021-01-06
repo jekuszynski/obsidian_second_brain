@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "532fe13e4cb0fc76",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0f9717762855e2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "801db41a0b938912",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f3ad82815ea84f",
+        "type": "tabs",
+        "dimension": 68.65342163355407,
+        "children": [
+          {
+            "id": "2b908565ba5b862a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da155779ae27cbe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Read",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77a2dc2909cdcbd1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c021fd1a51772e7",
+        "type": "tabs",
+        "dimension": 31.346578366445918,
+        "children": [
+          {
+            "id": "a4a470d69eb0c96d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345
+  },
+  "right": {
+    "id": "368f964c5acd7534",
+    "type": "split",
+    "children": [
+      {
+        "id": "5399536209a38613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1343e661e663b93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8128638b4e72a7ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c2c8e70bce7b867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24dfaee56d23c581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "88fa98f6203702f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modified Drude-Lorentz.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "efabefbab6474348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 556.7156982421875
+  },
+  "lastOpenFiles": [
+    "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+    "Modified Drude-Lorentz.md",
+    "Jasnieniak Group.md",
+    "Nanomaterials.md",
+    "Plasmon.md",
+    "Synthesis.md",
+    "Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
+    "Templates/Publication.md",
+    "Templates/Twitter.md",
+    "Templates/Youtube.md"
+  ]
+}
