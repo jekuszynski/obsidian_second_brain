@@ -1,6 +1,9 @@
-Type: [[@]]
+---
+aliases:
+tags:
+---
 Name: [[{{title}}]]
-Keywords: [[]]
+Tags: [[]]
 Profession: [[]]
 Link: 
 

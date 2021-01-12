@@ -1,3 +1,9 @@
+---
+aliases:
+---
+Tags: [[ZnO]] [[Research]]
+
+---
 Subgroups:
-[[NPs]] - Nanoparticles
-[[NCs]] - Nanocrystals
+[[Nanoparticles]] - Nanoparticles
+[[Nanocrystals]] - Nanocrystals

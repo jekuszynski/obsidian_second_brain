@@ -1,5 +1,5 @@
 # [[Modified Drude-Lorentz]]
-Tags: [[Plasmon]]
+Tags: [[Plasmon]] [[Research]]
 
 ## Equation:
 $$n=\frac{\omega^2m_e\varepsilon_0(\varepsilon_\infty+2\varepsilon_m)}{e^2}$$

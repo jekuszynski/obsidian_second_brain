@@ -1,5 +1,4 @@
 Title: [[{{title}}]]
-Type: [[!]]
 Tags: 
 Account: 
 Reference: 

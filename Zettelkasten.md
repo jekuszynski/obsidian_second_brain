@@ -2,7 +2,7 @@
 - Source: [How to Take Smart Notes | Zettelkasten Method in Roam Research](https://www.youtube.com/watch?v=ljyo_WAJevQ) (use Ctrl+K)
 -   Author: [[@Shu Omi]]
 -   Tags: [[notes]] [[Zettelkasten]] [[notetaking]]
--   Summary: How to perform Zettelkasten in 
+-   Summary: How to perform Zettelkasten in Roam
 ### Notes:
 -   Highlights
     -   Take Literature Notes

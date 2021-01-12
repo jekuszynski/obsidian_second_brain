@@ -1,7 +1,3 @@
----
-aliases:
-tags:
----
 # Title: [[!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals]]
 ## Metadata:
 - Type: #Article
@@ -10,8 +6,8 @@ tags:
 - Year: [[2014]]
 - DOI/ISBN: 10.1021/nn5027593
 - Source: https://doi.org/10.1021/nn5027593
-- Tags: [[ZnO]] [[Nanomaterials]] [[Plasmon]] [[Synthesis]]
-- Status: #Reading
+- Tags: [[ZnO]] [[Nanomaterials]] [[Plasmon]] [[Synthesis]] [[Research]]
+- Status: #Read
 
 
 ## Citation:
@@ -54,9 +50,6 @@ Result: [[Doping]] efficiency correlates atomic dopant size.  ([note on p.9156](
 
 Result: High dopant, higher [[carrier concentration]] = increase in [[Plasmon]] absorption, blue shift of band gap, greater Burstein-Moss shift ([note on p.9157](zotero://open-pdf/library/items/VEBMSKWV?page=4))
 
-## Summary of key points:
-
-<++>
 
 ## Context:
 > "When highly Al3Ã¾ doped with trivalent cations (usually or Ga3Ã¾ ), ZnO becomes a degenerate semiconductor as a result of the increased charge carrier (electron) concentration." ([Della Gaspera et al 2014:9154](zotero://open-pdf/library/items/VEBMSKWV?page=1))
@@ -108,12 +101,8 @@ Significance: [[Synthesis]] is simple, largely monodisperse, and allows for high
 ## Important Figures and/or Tables:
 
 ![[Pasted image 20210105134358.png]]
-![[Pasted image 20210105134449.png]]
 
 ## Cited References 
-to follow up on (cite those obviously related to your topic AND any papers frequently cited by others because those works may well prove to be essential as you develop your own work):
-
-<++>
 
 ## Other Comments:
 

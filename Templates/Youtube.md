@@ -1,5 +1,4 @@
 Title: [[{{title}}]]
-Type: [[+]]
 Tags: 
 URL: 
 Channel/Host: 

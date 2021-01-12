@@ -2,5 +2,7 @@
 ---
 - PI: [[@]]
 - Research: [[]]
-- Tags: [[Research Group]]
+- Tags: [[Research Group]] [[Research]]
 - Website: 
+- University:
+- Nationality: 

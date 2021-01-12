@@ -1,13 +1,13 @@
-# Group: [[{{title}}]]
+# Group: [[!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy]]
 ## Metadata:
-- Type: #Article #Review
-- Authors:  [[@]]
-- Group: [[]]
-- Year: [[]]
-- DOI/ISBN: 
-- Source: 
-- Tags: [[Research]]
-- Status: #Reading #Read #Unread
+- Type: #Article
+- Authors:  [[@Kimberly H. Hartstein]] [[@Alina M. Schimpf]] [[@Michael Salvador]] [[@Daniel R. Gamelin]]
+- Group: [[Gamelin Group]]
+- Year: [[2017]]
+- DOI/ISBN: 10.1021/acs.jpclett.7b00494
+- Source: https://pubs.acs.org/doi/10.1021/acs.jpclett.7b00494
+- Tags: [[Research]] [[Plasmon]] [[MCD]] [[Nanocrystals]] [[Cyclotron Splitting]]
+- Status: #Reading
 
 ## Citation:
 ``` latex here 
