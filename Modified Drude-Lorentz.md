@@ -1,3 +1,7 @@
+---
+aliases: 
+tags: [Concept, Equation, 🌿]
+---
 # [[Modified Drude-Lorentz]]
 Tags: [[Plasmon]] [[Research]]
 

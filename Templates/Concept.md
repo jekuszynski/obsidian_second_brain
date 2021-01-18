@@ -2,9 +2,9 @@
 aliases:
 tags:
 ---
-# Title: [[^{{title}}]]
+# Title: [[{{title}}]]
 ---
-Formation Date: [[{{date}}]]
-Tags: [[]]
+References: [[]]
+Date: [[#{{date}}]]
 
 ---

@@ -1,6 +1,6 @@
 # [[{{title}}]]
 
-#### Hey Jason, Whats On Your Mind? 
+## Hey Jason, Whats On Your Mind? 
 
 ---
 ## Daytime:

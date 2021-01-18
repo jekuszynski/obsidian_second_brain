@@ -6,7 +6,7 @@
 - Year: [[2017]]
 - DOI/ISBN: 10.1021/acs.jpclett.7b00494
 - Source: https://pubs.acs.org/doi/10.1021/acs.jpclett.7b00494
-- Tags: [[Research]] [[Plasmon]] [[MCD]] [[Nanocrystals]] [[Cyclotron Splitting]]
+- Tags: [[Research]] [[Plasmon]] [[MCD]] [[Nanocrystals]] [[Cyclotron Splitting]] [[Spectroscopy]]
 - Status: #Reading
 
 ## Citation:

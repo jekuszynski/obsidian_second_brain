@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e420b6ee05d1e23d",
+        "id": "3ea4e6fcb48c5b01",
         "type": "leaf",
-        "dimension": 62.08072768618533,
+        "dimension": 59.51393005334914,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md",
+            "file": "Daily/#2021-01-18.md",
             "mode": "source"
           }
         },
-        "group": "7b20d15d8ecc1aba"
+        "group": "60167f616538c7dd"
       },
       {
-        "id": "894cb5d07cf7bf51",
+        "id": "9906eca983c95752",
         "type": "leaf",
-        "dimension": 37.919272313814666,
+        "dimension": 40.48606994665086,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md",
-            "mode": "preview"
+            "file": "Daily/#2021-01-18.md",
+            "mode": "source"
           }
         },
-        "group": "7b20d15d8ecc1aba"
+        "group": "60167f616538c7dd"
       }
     ],
     "direction": "vertical"
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "internet",
+                "query": "urop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md",
+                "file": "Daily/#2021-01-18.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,11 +146,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md",
+                "file": "Daily/#2021-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md"
+                "file": "Daily/#2021-01-18.md"
               }
             }
           }
@@ -169,18 +169,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 468
   },
   "lastOpenFiles": [
-    "!Cyclotron Splittings in the Plasmon Resonances of Electronically Doped Semiconductor Nanocrystals Probed by Magnetic Circular Dichroism Spectroscopy.md",
-    "!Non-injection Synthesis of Doped Zinc Oxide Plasmonic Nanocrystals.md",
-    "Daily/#2021-01-11.md",
+    "Daily/#2021-01-18.md",
+    "Performance vs. Trust.md",
+    "Templates/Concept.md",
     "Candidacy.md",
-    "Daily/#2021-01-06.md",
-    "Zones.md",
-    "Lockdown Productivity - Spaceship You.md",
-    "Templates/Youtube.md",
+    "Shower Notes.md",
+    "Templates/Twitter.md",
+    "Templates/Research Group.md",
+    "Templates/Podcast.md",
     "Templates/Daily.md",
-    "Templates/Publication.md"
+    "Templates/iframe.md"
   ]
 }

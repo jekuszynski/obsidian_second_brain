@@ -1,5 +1,9 @@
 ---
-aliases: [Plasmon, Plasmons, LSPR, SPR, LSPRs, SPRs]
+aliases: [Plasmons, LSPR, SPR, LSPRs, SPRs]
+---
+# Title: [[Plasmon]]
 ---
 Tags: [[Modified Drude-Lorentz]]
+
+---
 
